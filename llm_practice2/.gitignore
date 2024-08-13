@@ -1,0 +1,6 @@
+*.gguf
+*.bin
+*.json
+*.model
+*.csv
+*.pkl
